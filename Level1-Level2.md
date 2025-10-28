@@ -12,4 +12,4 @@ The password for the next level is stored in a file called - located in the home
 - Like the information in our challenge description, we found a file named **-**. To open this file, we open it by calling it based on its location on the file system thus `cat ./-`
 
 > **Password**
-- **ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If**
+- **263JGJPfgU6LtdEvgfWU1XP5yac29mFx**
