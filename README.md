@@ -7,6 +7,7 @@
 > This repo is created for people who wish to know how to get unstuck on a particular challenge or see the thought process of the said writter.
 > It is in no way written and intended to spoil the fun and learning process of a reader.
 > **VIEW AT YOUR OWN RISK**
+  - As per rules of the wargame, **CREDENTIALS WILL NOT BE EXPLICITYLY PUBLISHED**
 
 ## Requirement
 > Operating System
@@ -15,6 +16,6 @@
   - Windows Subsystem for Linux WSL (Also a good choice. But not for me!)
 > Mindset
   - Open-mindedness. How I solve challenges can be done in a million ways (**Maybe more easier than mine**).
-  - problem solving, critical and logical thinking.
+  - Problem solving, critical and logical thinking.
 
 
