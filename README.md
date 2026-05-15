@@ -14,7 +14,7 @@
   - LINUX virtual machine (Recommended for n00bs)
   - Windows Subsystem for Linux WSL (Also a good choice. But not for me!)
 > Mindset
-  - Open-mindedness. what I will be showing can be done in a million ways (**Maybe more easier than mine**).
+  - Open-mindedness. How I solve challenges can be done in a million ways (**Maybe more easier than mine**).
   - problem solving, critical and logical thinking.
 
 
